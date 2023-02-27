@@ -25,7 +25,7 @@ pip3 install -r requirements.txt
 
 ## ScreenShot
 <p align="center">
-  <img src="" width="350">
+  <img src="./Connectivity_Checker.png" width="350">
 </p>
 
 ## Connect with me!
