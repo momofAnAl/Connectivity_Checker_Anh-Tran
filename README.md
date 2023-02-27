@@ -1,42 +1,36 @@
 # Build a Site Connectivity Checker in Python
+[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 
-RP Checker is a site connectivity checker utility. It takes one or more website URLs and checks if those sites are online. It can perform the connectivity checks either synchronously or asynchronously.
+- RP Checker is a site connectivity checker utility
+- It takes one or more website URLs and checks if those sites are online.
+- It can perform the connectivity checks either synchronously or asynchronously.
+
+## Learning Goals
+Major things that I want to focus on learning in this project
+- Using Python to create a site connectivity checker ultility
+- Using bPython to write and check code in Terminal
+- Learning to  synchoronously and asynchronously
+
+## Technology
+- Python 3.11
+- Venv
 
 ## Installation
-
-1. Create a Python virtual environment
-
-```sh
-$ python -m venv ./venv
-$ source venv/bin/activate
-(venv) $
+```bash
+pip3 install -r requirements.txt
 ```
 
-2. Install the requirements
-
-```
+## Usage
 (venv) $ python -m pip install -r requirements.txt
-```
 
-## Run the Project
+## ScreenShot
+<p align="center">
+  <img src="" width="350">
+</p>
 
-```sh
-(venv) $ python -m rpchecker -u python.org
-The status of "python.org" is: "Online!" 👍
-```
+## Connect with me!
 
-## Features
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/annieyentran/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/momofAnAl)
 
-RP Checker provides the following options:
-
-- `-u` or `--urls` takes one or more URLs and checks if they're online.
-- `-f` or `--input-file` takes a file containing a list of URLs to check.
-- `-a` or `--asynchronous` runs the check asynchronously.
-
-## About the Author
-
-Leodanis Pozo Ramos - Email: leodanis@realpython.com
-
-## License
-
-Distributed under the MIT license. See `LICENSE` in the root directory of this `materials` repo for more information.
+## Email Me :e-mail:
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:anhtr077@gmail.com)
