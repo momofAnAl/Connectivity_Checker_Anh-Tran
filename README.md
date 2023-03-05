@@ -1,4 +1,4 @@
-# Build a Site Connectivity Checker in Python
+# <a href="https://realpython.com/certificates/cddcd90c-c2a4-420b-9f92-44ec24164e64/">Building a Site Connectivity Checker on Real Python</a>
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 
 - RP Checker is a site connectivity checker utility
@@ -30,7 +30,6 @@ pip3 install -r requirements.txt
 
 ## Connect with me!
 
-[<img target="_blank" src="https://icons8.com/icon/116708/certificate" title="RealPython">](https://realpython.com/certificates/cddcd90c-c2a4-420b-9f92-44ec24164e64/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/annieyentran/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/momofAnAl)
 
 ## Email Me :e-mail:
